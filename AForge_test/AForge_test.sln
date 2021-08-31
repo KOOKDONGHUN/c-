@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AForge_test", "AForge_test\AForge_test.csproj", "{A3E26441-FD40-4F65-88F8-AAFDD89EF1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E26441-FD40-4F65-88F8-AAFDD89EF1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E26441-FD40-4F65-88F8-AAFDD89EF1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E26441-FD40-4F65-88F8-AAFDD89EF1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E26441-FD40-4F65-88F8-AAFDD89EF1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {087463E7-4651-4A25-B6FB-86EF601A80FF}
+	EndGlobalSection
+EndGlobal
